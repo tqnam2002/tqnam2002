@@ -72,7 +72,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=tqnam2002&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=tqnam2002&theme=radical&no-frame=false&no-bg=false&margin-w=200&margin-h=15)
 
 ### ✍️ Dev Quote Everyday
 
