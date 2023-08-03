@@ -22,6 +22,11 @@
 - E-Commerce and Digital Marketing 🎯
 - MERN Tech Stack 🎴
 
+## 💪 Also:
+
+- An adventurer travels to almost every provinces of Vietnam ✈️
+- A food reviewer (that's a lie), I just eat I don't review 🍚
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-nam-thai-b04b21217/)
@@ -58,11 +63,6 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-
-## 💪 Also:
-
-- An adventurer travels to almost every provinces of Vietnam ✈️
-- A food reviewer (that's a lie), I just eat I don't review 🍚
 
 # 🃏 Hobbies:
 
