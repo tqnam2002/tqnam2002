@@ -66,20 +66,20 @@
 
 ## 📊 GitHub Stats:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vinhDev3006&show_icons=true&hide_border=false&hide_title=true&count_private=true&theme=nightowl" width="100%">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vinhDev3006&theme=nightowl&hide_border=false&hide_title=true" width="100%"><br clear="all">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhDev3006&theme=nightowl&hide_border=false&hide_title=true&layout=compact" width="100%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tqnam2002&show_icons=true&hide_border=false&hide_title=true&count_private=true&theme=nightowl" width="100%">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tqnam2002&theme=nightowl&hide_border=false&hide_title=true" width="100%"><br clear="all">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tqnam2002&theme=nightowl&hide_border=false&hide_title=true&layout=compact" width="100%">
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=vinhDev3006&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=tqnam2002&theme=react-dark&hide_border=true&area=true)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=vinhDev3006&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=tqnam2002&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15)
 
 ### ✍️ Random Dev Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![](https://visitcount.itsvg.in/api?id=vinhDev3006&icon=1&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=tqnam2002&icon=1&color=4)](https://visitcount.itsvg.in)
 
 ![](assets/svg/bottom_bar.svg)
