@@ -6,6 +6,10 @@
 
 # 💫 About Me
 
+## Digital Craftsman
+
+I am shared everyone here with the creative minds behind technological advancements, crafting innovative solutions with lines of code. I thrive on problem-solving, constantly pushing the boundaries of what's possible. With a diverse range of expertise, from web development to sensoring and automation, I would love to shape my digital landscape in the future. Adaptable and curious, I am hopefully able to lead the charge in the ever-evolving world of technology, leaving a lasting impact on how I interact with the digital realm.
+
 ## 🤖 Currently working on
 
 - E-Commerce Web Application 📇
