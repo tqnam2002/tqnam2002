@@ -70,7 +70,7 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tqnam2002&theme=nightowl&hide_border=false&hide_title=true" width="100%"><br clear="all">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tqnam2002&theme=nightowl&hide_border=false&hide_title=true&layout=compact" width="100%">
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=tqnam2002&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=vinhDev3006&theme=react-dark&hide_border=true&area=true)
 
 ## 🏆 GitHub Trophies
 
