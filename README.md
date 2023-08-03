@@ -72,11 +72,11 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=tqnam2002&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=tqnam2002&theme=radical&no-frame=false&no-bg=false&margin-w=12&margin-h=15)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote Everyday
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![](https://visitcount.itsvg.in/api?id=tqnam2002&icon=1&color=4)](https://visitcount.itsvg.in)
 
