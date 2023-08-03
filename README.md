@@ -6,33 +6,24 @@
 
 # 💫 About Me:
 
-## 🤖 Currently studying on:
+## 🤖 Currently working on:
 
-- MERN tech stack to create e-commerce web app
-- E-Commerce and Digital Marketing :smile:
+- E-Commerce Web Application 📇
+- Personal Portfolio 🐴
 
 ## 🤝 Looking to collaborate on:
 
-- Open-source projects related to machine learning or web development 🌟💻
-- Building impactful applications that solve real-world problems 🤔🚀
-- Learning new skills and exploring interesting ideas with other developers 👯👨‍💻
+- Open-source projects related to machine learning or web development 🌟
+- Building impactful applications that solve real-world problems 👀
+- Learning new skills and exploring interesting ideas with other developers 👯
 
 ## 📚 Currently learning:
 
-- PyTorch for deep learning and neural network development 🧠🤖
-- Selenium for web testing and automation 🌐🔍
-- Exploring new technologies and frameworks to expand my skillset 🤔📖
-
-## 💬 Ask me about:
-
-- AI and machine learning projects I've worked on 🤖🔬
-- Web development and design best practices 🌐💻
-- Tips and tricks for staying productive and motivated while coding 😊🚀
+- E-Commerce and Digital Marketing 🎯
 
 ## 💪 Also:
 
-- A fitness enthusiast and gym lover 🏋️‍♀️🏋️‍♂️
-- Passionate about health and wellness, and exploring new ways to stay active and healthy 🍎🏃‍♀️
+- An adventurer travels to almost every provinces of Vietnam ✈️ :vietnam:
 
 ## 🌐 Socials:
 
