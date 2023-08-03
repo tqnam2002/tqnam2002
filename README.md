@@ -93,9 +93,9 @@
 
 ### ✍️ Dev Quote Everyday
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+---
 
-[![](https://visitcount.itsvg.in/api?id=tqnam2002&icon=1&color=4)](https://visitcount.itsvg.in)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)] wi(https://github.com/piyushsuthar/github-readme-quotes)
 
 ![](assets/svg/bottom_bar.svg)
 
