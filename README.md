@@ -28,8 +28,8 @@ I share my creative minds behind technological advancements with everyone here, 
 
 ## Past Projects
 
-- Online Movie Management System: https://www.youtube.com/watch?v=FvsuDLdT06o&ab_channel=NgocVinhNguyen
-  \Source Code: https://gitlab.com/galvdat/vgu_tinyprojects/pe2023/vgupe2023_team5.git
+- Online Movie Management System: https://www.youtube.com/watch?v=FvsuDLdT06o&ab_channel=NgocVinhNguyen \
+  Source Code: https://gitlab.com/galvdat/vgu_tinyprojects/pe2023/vgupe2023_team5.git
 
 ## 💪 Also:
 
