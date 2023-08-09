@@ -26,7 +26,7 @@ I share my creative minds behind technological advancements with everyone here, 
 - E-Commerce and Digital Marketing 🎯
 - MERN Tech Stack 🎴
 
-## Past Projects
+## 🔥 Past Projects
 
 - Online Movie Management System: https://www.youtube.com/watch?v=FvsuDLdT06o&ab_channel=NgocVinhNguyen \
   Source Code: https://gitlab.com/galvdat/vgu_tinyprojects/pe2023/vgupe2023_team5.git
